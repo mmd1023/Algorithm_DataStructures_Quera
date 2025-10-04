@@ -1,5 +1,4 @@
 n = int(input())
-
 total_count = 0
 
 for a in range(1, n // 3 + 1):
